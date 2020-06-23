@@ -1,5 +1,4 @@
-# layer_thickness
+### Layer thickness analysis
 
 
-반도체 박막 두께 분석을 위한 프로젝트. 
-물리학도로서의 냄새가 물씬나는...
+반도체 박막 두께 분석 프로젝트.
